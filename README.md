@@ -1,6 +1,6 @@
 # Building a Modern Data Platform for Free
 
 
-#Architecture
+# Architecture
 
 <img src="dbt_sandbox.png">
